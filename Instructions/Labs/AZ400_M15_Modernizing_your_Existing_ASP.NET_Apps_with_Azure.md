@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab: Modernizing your Existing ASP.NET Apps with Azure'
-    module: 'Module 15: Managing Containers using Docker'
+    module: 'Module 15: Managing Containers using Docker' --> DONE by trPhan
 ---
 
 # Lab: Modernizing your Existing ASP.NET Apps with Azure
